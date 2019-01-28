@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	background: #3e4444;
+	padding: 3px;
+	border-bottom: 3px solid #e6e2d3;
+	margin-bottom: 2px;
+	color: #e6e2d3;
+}
+
+h3{
+	text-align: center;
+	background: #3e4444;
+	padding: 3px;
+	border-bottom: 3px solid #e6e2d3;
+	margin-top: 1px;
+	margin-bottom: 20px;
+	color: #e6e2d3;
+}
+
+.gamescreen {
+	border: 4px solid magenta;
+	background: aqua;
+}
+
+img {
+	display: none;
+}
